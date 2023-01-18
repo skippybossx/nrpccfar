@@ -1,0 +1,18 @@
+#Cloudflare login email
+domain_owner_mail=""
+
+#Cloudflare API Token
+domain_api_key=""
+
+#Cloudflare API Zone ID (domain id)
+zone_api_id=""
+
+#NginxProxyManager address
+NPM_address=""
+
+#NginxProxyManager login email
+NPM_email=""
+
+#NginxProxyManager password
+NPM_password=""
+
